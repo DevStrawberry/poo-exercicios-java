@@ -1,4 +1,4 @@
-package exercicios.caixa;
+package listas;
 
 public class Caixa<T> {
     private T valor;
